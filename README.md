@@ -10,4 +10,4 @@ Step 2: npm install
 step 3: npm run start
 
 
-TO understand the flow i a better way. Please watch the POC-overview video.
+To understand the flow in a better way. Please watch the POC-overview video.
